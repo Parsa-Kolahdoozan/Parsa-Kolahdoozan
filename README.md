@@ -13,7 +13,7 @@
 <br><br>
 
 <!-- Tech Stack Icons (large & modern) -->
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,postman,vscode&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,redis,docker,git,linux,vscode&perline=9&theme=dark" />
 
 <br>
 
