@@ -27,20 +27,20 @@
 
 <br><br>
 
-<!-- Detailed Skills with levels (optional visual) -->
-| Skill                               | Level       | Keywords |
-|-------------------------------------|-------------|----------|
-| Python & Django Backend             | Expert      | Django 5 · DRF · Clean Architecture |
-| Real-time Systems                   | Expert      | Django Channels · WebSocket · ASGI |
-| Async & Background Tasks            | Expert      | Celery · Redis · RabbitMQ |
-| Authentication & Security            | Expert      | SimpleJWT + Refresh Rotation · Argon2 · TOTP · Django Guardian |
-| API Design & Documentation          | Advanced    | drf-spectacular · OpenAPI 3 |
-| Database & Caching                  | Advanced    | PostgreSQL · Redis · Query Optimization |
-| DevOps & Deployment                 | Advanced    | Docker · Docker Compose · Gunicorn · Nginx |
-| Monitoring                          | Advanced    | Sentry · Celery Flower · Health Checks |
-| Modern Frontend                     | Intermediate–Advanced | Next.js 16 · React 19 · TypeScript · Tailwind · shadcn/ui |
-| WordPress Expert                    | Expert      | Custom Theme · Elementor Pro · Advanced SEO · WooCommerce |
+### 🛠 Tech Stack & Expertise
 
+| Skill                              | Level                  | Key Technologies & Concepts |
+|------------------------------------|------------------------|-----------------------------|
+| Python & Django Backend            | **Expert**             | Django 5 · DRF · Modular/Domain-Driven Structure · Clean Architecture |
+| Real-time Systems                  | **Expert**             | Django Channels · WebSocket · ASGI · Redis Layer |
+| Async & Background Tasks           | **Advanced**           | Celery · Redis · RabbitMQ · Beat Scheduler · Task Chaining |
+| Authentication & Security          | **Advanced**           | SimpleJWT + Refresh Rotation · Argon2 · TOTP/HOTP · Django Guardian · Axes · CSP |
+| API Design & Documentation         | **Expert**             | DRF · drf-spectacular · OpenAPI 3 · Schema-first design |
+| Database & Caching                 | **Advanced**           | PostgreSQL · Redis · Advanced Query Optimization · Index Strategy |
+| DevOps & Deployment                | **Intermediate**       | Docker · Docker Compose · Gunicorn · Nginx · CI/CD basics |
+| Monitoring & Observability         | **Intermediate**       | Sentry · Celery Flower · Django Silk · Health Checks |
+| Modern Frontend (React Ecosystem)  | **Intermediate–Advanced** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind · shadcn/ui · TanStack Query · Zustand |
+| WordPress Development              | **Expert**             | Custom Theme & Plugin Dev · Elementor Pro · WooCommerce · Advanced On-Page SEO · Core Web Vitals |
 <br>
 
 **National 1st Place – Python Coding Competition (Iran)**  
