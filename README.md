@@ -9,7 +9,6 @@
 <!-- Badges Row 1 -->
 <a href="https://linkedin.com/in/parsa-kolahdoozan"><img src="https://img.shields.io/badge/LinkedIn-Parsa_Kolahdoozan-0077B5?logo=linkedin&style=flat-square" /></a>
 <a href="mailto:parsakolahdoozan@gmail.com"><img src="https://img.shields.io/badge/Email-parsakolahdoozan@gmail.com-D14836?logo=gmail&style=flat-square" /></a>
-<a href="https://t.me/parsa_kd"><img src="https://img.shields.io/badge/Telegram-@parsa__kd-229ED9?logo=telegram&style=flat-square" /></a>
 
 <br><br>
 
