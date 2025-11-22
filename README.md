@@ -39,7 +39,7 @@
 | Database & Caching                 | **Advanced**           | PostgreSQL · Redis · Advanced Query Optimization · Index Strategy |
 | DevOps & Deployment                | **Intermediate**       | Docker · Docker Compose · Gunicorn · Nginx · CI/CD basics |
 | Monitoring & Observability         | **Intermediate**       | Sentry · Celery Flower · Django Silk · Health Checks |
-| Modern Frontend (React Ecosystem)  | **Intermediate–Advanced** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind · shadcn/ui · TanStack Query · Zustand |
+| Modern Frontend (React Ecosystem)  | **Advanced** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind · shadcn/ui · TanStack Query · Zustand |
 | WordPress Development              | **Expert**             | Custom Theme & Plugin Dev · Elementor Pro · WooCommerce · Advanced On-Page SEO · Core Web Vitals |
 <br>
 
@@ -47,14 +47,3 @@
 *Among all research-center students across the country*
 
 <br><br>
-
-**Currently building high-performance, secure, and real-time backend systems**  
-Open to remote Django / Python backend roles and interesting collaborations.
-
-<!-- SEO Hidden Keywords (for GitHub search & Google) -->
-<!-- django developer iran, django backend developer, parsa kolahdoozan, django channels expert, celery redis django, python developer isfahan, young django developer, django rest framework expert -->
-
-</div>
-
----
-⭐ Star [my repositories](https://github.com/Parsa-Kolahdoozan?tab=repositories) if you find them useful!
