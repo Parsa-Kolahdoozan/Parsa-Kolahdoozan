@@ -40,7 +40,6 @@
 | DevOps & Deployment                | **Intermediate**       | Docker · Docker Compose · Gunicorn · Nginx · CI/CD basics |
 | Monitoring & Observability         | **Intermediate**       | Sentry · Celery Flower · Django Silk · Health Checks |
 | Modern Frontend (React Ecosystem)  | **Advanced** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind · shadcn/ui · TanStack Query · Zustand |
-| WordPress Development              | **Expert**             | Custom Theme & Plugin Dev · Elementor Pro · WooCommerce · Advanced On-Page SEO · Core Web Vitals |
 <br>
 
 **National 1st Place – Python Coding Competition (Iran)**  
