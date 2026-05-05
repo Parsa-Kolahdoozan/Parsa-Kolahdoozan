@@ -34,8 +34,8 @@
 | Python & Django Backend            | **Expert**             | Django 5 · DRF · Modular/Domain-Driven Structure · Clean Architecture |
 | Real-time Systems                  | **Expert**             | Django Channels · WebSocket · ASGI · Redis Layer |
 | Async & Background Tasks           | **Advanced**           | Celery · Redis · RabbitMQ · Beat Scheduler · Task Chaining |
-| Authentication & Security          | **Advanced**           | SimpleJWT + Refresh Rotation · Argon2 · TOTP/HOTP · Django Guardian · Axes · CSP |
-| API Design & Documentation         | **Expert**             | DRF · drf-spectacular · OpenAPI 3 · Schema-first design |
+| Authentication & Security          | **Advanced**           | JWT + Refresh Rotation · Argon2 · Axes · CSP |
+| API Design & Documentation         | **Expert**             | DRF · drf-spectacular |
 | Database & Caching                 | **Advanced**           | PostgreSQL · Redis · Advanced Query Optimization · Index Strategy |
 | DevOps & Deployment                | **Intermediate**       | Docker · Docker Compose · Gunicorn · Nginx · CI/CD basics |
 | Monitoring & Observability         | **Intermediate**       | Sentry · Celery Flower · Django Silk · Health Checks |
