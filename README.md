@@ -20,7 +20,6 @@
 <!-- Core Expertise -->
 <img alt="Django" src="https://img.shields.io/badge/Django%205-092E20?logo=django&style=for-the-badge&logoWidth=20"/>
 <img alt="DRF" src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?logo=django&style=for-the-badge"/>
-<img alt="Django Channels" src="https://img.shields.io/badge/Django%20Channels%20(WebSocket)-092E20?logo=django&style=for-the-badge"/>
 <img alt="Celery" src="https://img.shields.io/badge/Celery%20+%20Redis-4B8A6B?logo=celery&style=for-the-badge"/>
 <img alt="Docker" src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&style=for-the-badge"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=for-the-badge"/>
