@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=Parsa%20Kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20%7C%20Django%20Backend%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2a47,100:0e75b6&height=220&section=header&text=Parsa%20Kolahdoozan&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20%20%7C%20%20Django%20%C2%B7%20Next.js&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Real-time+Systems+%7C+Scalable+Architecture;Django+-+DRF+-+Channels+-+Celery;Clean+Code%2C+Clean+Architecture" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Backend%3A+Django+-+DRF+-+Channels+-+Celery;Frontend%3A+Next.js+-+React+-+TypeScript;Clean+Code%2C+Scalable+Architecture" alt="Typing SVG" />
 
 <br>
 
@@ -16,24 +16,14 @@
 <br>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,redis,docker,git,linux,vscode&perline=9&theme=dark" />
-</div>
-
-<br>
-
-<div align="center">
-<img alt="Django" src="https://img.shields.io/badge/Django%205-092E20?logo=django&logoColor=white&style=for-the-badge"/>
-<img alt="DRF" src="https://img.shields.io/badge/Django%20REST%20Framework-FF1709?logo=django&logoColor=white&style=for-the-badge"/>
-<img alt="Celery" src="https://img.shields.io/badge/Celery%20+%20Redis-37814A?logo=celery&logoColor=white&style=for-the-badge"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,django,react,nextjs,typescript,tailwind,mysql,postgres,redis,docker,git,linux&perline=6&theme=dark" />
 </div>
 
 <br>
 
 ### About Me
 
-Backend engineer focused on **Python & Django**, building real-time and highly scalable systems with clean, maintainable architecture. Comfortable across the full backend lifecycle — from API design to async task orchestration, caching strategy, and production deployment.
+Software developer working across the full stack — **Django / DRF** on the backend, **Next.js / React / TypeScript** on the frontend. Focused on real-time systems, scalable architecture, and clean, maintainable code, from API design and async task orchestration to production deployment.
 
 ---
 
